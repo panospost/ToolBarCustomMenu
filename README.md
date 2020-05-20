@@ -1,3 +1,1 @@
-echo "# ToolBarCustomMenu" 
-
 ![](example.gif)
